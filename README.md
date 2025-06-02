@@ -1,16 +1,42 @@
-## Hi there 👋
+#  👨🏻‍💻 Iago Tannus
 
-<!--
-**IagoTannusb/IagoTannusb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Iago Tannus, engenheiro eletricista que atualmente atua no setor de mineração como Analista de Dados, desenvolvendo relatórios para os mais diversos tipos de clientes, além de criar dashboards para o monitoramento da qualidade dos dados e da utilização do sistema. Sigo em constante evolução, aprofundando meus conhecimentos em Python, SQL, Estatística e Machine Learning. Tenho realizado projetos próprios, aplicando essas técnicas para resolver problemas reais de negócio, sempre buscando gerar impacto por meio de produtos de dados.
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/IagoTannusb">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IagoTannusb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagoTannusb&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+  ## Ferramentas
+  <!-- Tools  -->
+  <div style="display: inline_block">
+    <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" />
+  </div>
+  
+  ## Sinta-se à vontade para entrar em contato!
+<div> 
+  <a href="www.linkedin.com/in/iagotannus" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href = "mailto:iagotannusb.pomponet@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+<h2><a target="_blank" href="https://iagotannusb.github.io/portfolio_projetos/">Projects Portfolio</a></h2>
+
+  * [Atlas Food Data Analysis](https://github.com/IagoTannusb/ftc_projeto_final)
+
+
+
+## 📖 Atualmente estou aprendendo sobre: 
+  
+  * Lifelong Learning
+  * Negócios
+  * Estatística Aplicada
+  * Visualização de Dados (Dataviz)
+  * Prgramação 
+  * Programming Techniques
