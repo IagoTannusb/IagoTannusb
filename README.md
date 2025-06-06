@@ -21,15 +21,18 @@ Sou Iago Tannus, engenheiro eletricista que atualmente atua no setor de mineraç
   
   ## Sinta-se à vontade para entrar em contato!
 <div> 
-  <a href="www.linkedin.com/in/iagotannus" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href = "mailto:iagotannusb.pomponet@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/iagotannus" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:iagotannusb.pomponet@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
-
  
 <h2><a target="_blank" href="https://iagotannusb.github.io/portfolio_projetos/">Projects Portfolio</a></h2>
 
   * [Atlas Food Data Analysis](https://github.com/IagoTannusb/ftc_projeto_final)
-
+> Dashboard interativo desenvolvido com Streamlit para apoiar decisões estratégicas do CEO da AtlasFood, utilizando dados do Kaggle. Envolveu tratamento com Pandas, EDA com foco em geolocalização e diversidade culinária, e visualizações com Seaborn, Plotly e Matplotlib. Publicado no Streamlit Cloud, com versão responsiva e acessível via web.  
+> **Principais insights:**  
+> • Mais de 70% dos restaurantes estão concentrados em apenas 3 países.  
+> • A maioria possui altas avaliações, mas sem suporte a reservas.  
+> • Alta diversidade culinária nas regiões com maior concentração.
 
 
 ## 📖 Atualmente estou aprendendo sobre: 
