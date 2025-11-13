@@ -33,13 +33,3 @@ Sou Iago Tannus, engenheiro eletricista que atualmente atua no setor de mineraç
 > • Mais de 70% dos restaurantes estão concentrados em apenas 3 países.  
 > • A maioria possui altas avaliações, mas sem suporte a reservas.  
 > • Alta diversidade culinária nas regiões com maior concentração.
-
-
-## 📖 Atualmente estou aprendendo sobre: 
-  
-  * Lifelong Learning
-  * Negócios
-  * Estatística Aplicada
-  * Visualização de Dados (Dataviz)
-  * Prgramação 
-  * Programming Techniques
