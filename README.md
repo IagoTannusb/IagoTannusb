@@ -33,3 +33,6 @@ Sou Iago Tannus, engenheiro eletricista que atualmente atua no setor de mineraç
 > • Mais de 70% dos restaurantes estão concentrados em apenas 3 países.  
 > • A maioria possui altas avaliações, mas sem suporte a reservas.  
 > • Alta diversidade culinária nas regiões com maior concentração.
+
+  * [Relatório em SQL — Northwind](https://github.com/IagoTannusb/Northwind-SQL-Analytics)
+> Projeto analítico desenvolvido inteiramente em SQL, utilizando o banco de dados Northwind para responder a perguntas reais de negócio. O foco foi criar consultas claras, eficientes e bem estruturadas, permitindo explorar métricas sobre vendas, clientes, produtos e desempenho comercial. Para isso, foram utilizados principalmente comandos DQL (Data Query Language) para realizar análises e extrair insights valiosos dos dados.
