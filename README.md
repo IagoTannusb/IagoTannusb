@@ -36,3 +36,9 @@ Sou Iago Tannus, engenheiro eletricista que atualmente atua no setor de mineraç
 
   * [Relatório em SQL — Northwind](https://github.com/IagoTannusb/Northwind-SQL-Analytics)
 > Projeto analítico desenvolvido inteiramente em SQL, utilizando o banco de dados Northwind para responder a perguntas reais de negócio. O foco foi criar consultas claras, eficientes e bem estruturadas, permitindo explorar métricas sobre vendas, clientes, produtos e desempenho comercial. Para isso, foram utilizados principalmente comandos DQL (Data Query Language) para realizar análises e extrair insights valiosos dos dados.
+
+  * [Northwind-SQL-ETL](https://github.com/IagoTannusb/Northwind-SQL-ETL)
+> Nesse projeto foi implementado um processo de ETL utilizando apenas SQL e recursos nativos do PostgreSQL, simulando cenários reais de BI e automação de dados. Foi criada uma materialized view de faturamento mensal, sempre atualizada por meio de triggers. Além disso, foi implementada uma auditoria automática para alterações de cargo dos funcionários, tudo executado diretamente no banco de dados.
+
+
+
